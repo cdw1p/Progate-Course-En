@@ -9,7 +9,7 @@ Progate Lesson Overview by Scraping Bot
 - [x] Ruby
 - [x] Rails5
 - [x] PHP
-- [ ] Java
+- [x] Java
 - [ ] Python
 - [ ] Command Line
 - [ ] Git
