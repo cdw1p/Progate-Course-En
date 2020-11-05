@@ -12,7 +12,7 @@ Progate Lesson Overview by Scraping Bot
 - [x] Java
 - [x] Python
 - [x] Command Line
-- [ ] Git
+- [x] Git
 - [ ] SQL
 - [ ] Sass
 - [ ] Go
