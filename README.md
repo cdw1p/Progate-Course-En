@@ -17,4 +17,4 @@ Progate Lesson Overview by Scraping Bot
 - [ ] Sass
 - [ ] Go
 - [ ] React.js
-- [ ] Node.js
+- [x] Node.js
