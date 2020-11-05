@@ -13,7 +13,7 @@ Progate Lesson Overview by Scraping Bot
 - [x] Python
 - [x] Command Line
 - [x] Git
-- [ ] SQL
+- [x] SQL
 - [ ] Sass
 - [ ] Go
 - [x] React.js
