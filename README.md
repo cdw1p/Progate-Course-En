@@ -11,7 +11,7 @@ Progate Lesson Overview by Scraping Bot
 - [x] PHP
 - [x] Java
 - [x] Python
-- [ ] Command Line
+- [x] Command Line
 - [ ] Git
 - [ ] SQL
 - [ ] Sass
