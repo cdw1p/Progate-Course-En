@@ -14,7 +14,7 @@ Progate Lesson Overview by Scraping Bot
 - [x] Command Line
 - [x] Git
 - [x] SQL
-- [ ] Sass
+- [x] Sass
 - [ ] Go
 - [x] React.js
 - [x] Node.js
