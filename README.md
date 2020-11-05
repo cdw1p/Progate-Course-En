@@ -18,6 +18,6 @@ https://drive.google.com/drive/folders/1GOrT66NM0UeRuCYV9dg5ixIGc2gS-UXw?usp=sha
 - [x] Git
 - [x] SQL
 - [x] Sass
-- [ ] Go
+- [x] Go
 - [x] React.js
 - [x] Node.js
