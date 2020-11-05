@@ -7,7 +7,7 @@ Progate Lesson Overview by Scraping Bot
 - [x] JS (ES6)
 - [x] jQuery
 - [x] Ruby
-- [ ] Rails5
+- [x] Rails5
 - [ ] PHP
 - [ ] Java
 - [ ] Python
